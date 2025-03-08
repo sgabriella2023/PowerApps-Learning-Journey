@@ -12,8 +12,8 @@ Welcome to my Power Apps learning journey! This repository documents my progress
 ## Progress Tracker
 | Topic               | Status      | Notes                          |
 |---------------------|-------------|--------------------------------|
-| Power FX Basics     | Completed   | Learned basic formulas.        |
+| Power FX Basics     | In Progress | Learn basic formulas.          |
 | Data Sources        | In Progress | Exploring SharePoint and SQL.  |
-| Custom Components   | Planned     | Will start next week.          |
+| Custom Components   | In Progress | Will start next week.          |
 
 
